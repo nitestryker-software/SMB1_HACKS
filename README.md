@@ -14,6 +14,7 @@ This Version has 20 new levels Different Sprites and Palettes and different Spir
 This Version is more like the Original with Different Levels only Small minimal  changes to the Spirtes and Palettes. it has 20 new moderately hard levels but not to hard you can't beat it. 
 
 ## SMB SkyWorld - 
+This Version is pretty much all Island Levels expect for the castles. 20 New Levels of hopping from platform to plateform in the air. Newer looking Sprites and palettes.
    
 
 ## SMB WaterWorld -
